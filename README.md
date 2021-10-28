@@ -1,6 +1,6 @@
 - 👋 Hi, I’m baoshuoRIP
 - 👀 I’m interested in Baoshuo Ren's brilliant deeds
-- 🌱 I’m currently learning HTML/CSS and Is studying how to show Baoshuo Ren's brilliant deeds
+- 🌱 I’m currently learning HTML/CSS and now studying how to show Baoshuo Ren's brilliant deeds
 - 📫 For additional information, please visit https://ren.baoshuo.rip
 - Coming soon...
 
